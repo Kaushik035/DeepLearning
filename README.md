@@ -22,3 +22,10 @@
 - **Day 10**: [Hand written Digit Classification](./D10-Hand-written-digit-classification/)
 
 - **Day 11**: [Graduate Admission Prediction](./D11-Graduate-Admission-Prediction/)
+
+- From day 19 onwards we will be covering the ways to improve the performance of the model
+
+![roadmap](image.png)
+![roadmap-remaining](image-1.png)
+
+- The instructor had picked topics form the above list first which are small and easier
