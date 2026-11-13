@@ -1,31 +1,58 @@
-- This readme file tells the flow of the learning process of the course.
+# Deep Learning Journey
 
-- First we will cover ANN then move towards CNN and RNN
-- **Day 1**: [What is DL](./D1-What-Is-DL/)
+Day-by-day notes and code from my deep learning course. The path: **ANN first, then CNN and RNN**. Each day lives in its own folder with notebooks (theory and/or code).
 
-- **Day 2**: [Types of NN](./D2-Types-of-NN/)
+## Contents
 
-- **Day 3**: [What is Perceptron](./D3-What-Is-Perceptron/)
+### 1. Foundations
+| Day | Topic |
+|-----|-------|
+| 1 | [What is Deep Learning](./D1-What-Is-DL/) |
+| 2 | [Types of Neural Networks](./D2-Types-of-NN/) |
 
-- **Day 4**: [How To Train Perceptron](./D4-How-To-Train-Perceptron/)
+### 2. Perceptron
+| Day | Topic |
+|-----|-------|
+| 3 | [What is a Perceptron](./D3-What-Is-Perceptron/) |
+| 4 | [How to Train a Perceptron](./D4-How-To-Train-Perceptron/) |
+| 5 | [Perceptron Loss Function](./D5-Perceptron-loss-function/) |
+| 6 | [Problem with Perceptron](./D6-Problem-with-Perceptron/) |
 
-- **Day 5**: [Perceptron Loss Function](./D5-Perceptron-loss-function/)
+### 3. Multi-Layer Perceptron (MLP)
+| Day | Topic |
+|-----|-------|
+| 7 | [Multi Layer Perceptron](./D7-Multi-Layer-Perceptron/) |
+| 8 | [Forward Propagation](./D8-Forward-Propagation/) |
 
-- **Day 6**: [Problem with Perceptron](./D6-Problem-with-Perceptron/)
+### 4. Hands-on Projects
+| Day | Topic |
+|-----|-------|
+| 9 | [Customer Churn Prediction](./D9-Customer-Churn-Prediction/) |
+| 10 | [Handwritten Digit Classification](./D10-Hand-written-digit-classification/) |
+| 11 | [Graduate Admission Prediction](./D11-Graduate-Admission-Prediction/) |
 
-- **Day 7**: [Multi Layer Perceptron](./D7-Multi-Layer-Perceptron/)
+### 5. Training Neural Networks
+| Day | Topic |
+|-----|-------|
+| 12 | [Loss Functions in DL](./D12-Loss-Func-In-DL/) |
+| 13 | [Backpropagation](./D13-Backpropagation/) |
+| 14 | [Gradient Descent in NN](./D14-Gradient-Descent-In-NN/) |
+| 15 | [MLP Memoization](./D15-MLP-Memoization/) |
+| 16 | [Vanishing Gradient Problem](./D16-Vanishing-Gradient-Problem/) |
 
-- **Day 8**: [Forward Propagation](./D8-Forward-Propagation/)
-
-- **Day 9**: [Customer Churn Prediction](./D9-Customer-Churn-Prediction/)
-
-- **Day 10**: [Hand written Digit Classification](./D10-Hand-written-digit-classification/)
-
-- **Day 11**: [Graduate Admission Prediction](./D11-Graduate-Admission-Prediction/)
-
-- From day 19 onwards we will be covering the ways to improve the performance of the model
+### 6. Improving Performance
 
 ![roadmap](image.png)
 ![roadmap-remaining](image-1.png)
 
-- The instructor had picked topics form the above list first which are small and easier
+> The instructor picks topics from the list above in order of difficulty, starting with the smaller and easier ones.
+
+
+| Day | Topic |
+|-----|-------|
+| 17 | [Improve Performance of NN](./D17-Improve-Performance-Of-NN/) |
+| 18 | [Early Stopping](./D18-Early-Stopping/) |
+| 19 | [Data (Feature) Scaling in NN](./D19-Data-Scaling-In-NN/) |
+
+## Upcoming
+CNN, RNN, and more ways to improve model performance (see roadmap above).
